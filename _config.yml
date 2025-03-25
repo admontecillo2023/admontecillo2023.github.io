@@ -63,7 +63,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Dissertation title: Advancing Livestock Pathogen Genomics in the Philippines: Whole-Genome Sequencing of African Swine Fever Virus (Asfivirus haemorrhagiae) and Porcine Reproductive and Respiratory Syndrome Virus 2 (Betaarterivirus americense) Using Long-Read Nanopore Sequencing
+          Dissertation title: *Advancing Livestock Pathogen Genomics in the Philippines: Whole-Genome Sequencing of African Swine Fever Virus (Asfivirus haemorrhagiae) and Porcine Reproductive and Respiratory Syndrome Virus 2 (Betaarterivirus americense) Using Long-Read Nanopore Sequencing*
 
           Scholarship: DOST-PCAARRD Graduate Research and Education Assistantship for Technology Program
     
@@ -74,7 +74,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Thesis title: Molecular Characterization of Archaeal Community of Cellulose-enriched and Non-enriched Mt. Makiling Mudspring Mud and Water Slurry Based on 16S rDNA Polymerase Chain Reaction-Denaturing Gradient Gel Electrophoresis (PCR-DGGE) and Community Proteomics. 
+          Thesis title: *Molecular Characterization of Archaeal Community of Cellulose-enriched and Non-enriched Mt. Makiling Mudspring Mud and Water Slurry Based on 16S rDNA Polymerase Chain Reaction-Denaturing Gradient Gel Electrophoresis (PCR-DGGE) and Community Proteomics.* 
           Funded by the DOST-ASTHRDP Scholarship Program. University of the Philippines Los Banos, Philippines. January 2011 to October 2013.
           
           Recognition: Top 4 M.Sc. graduate
@@ -88,7 +88,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Thesis title: Isolation and Partial Characterization of Lactic Acid Bacteria from Three Bee Species in the Philippines and Screening for Activity Against Paenibacillus larvae ssp. larvae and Selected Foodborne Pathogens”. April 2007. 
+          Thesis title: *Isolation and Partial Characterization of Lactic Acid Bacteria from Three Bee Species in the Philippines and Screening for Activity Against *Paenibacillus larvae* ssp. *larvae* and Selected Foodborne Pathogens*. April 2007. 
         
           Recognition: Magna cum laude graduate
 
