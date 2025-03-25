@@ -108,7 +108,7 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          33. Lantican, NB, Barredo, G AT, Rosana, AR, Siababa, ACS, & Montecillo, AD. (2025). Draft genomes of five putative biosurfactant-producing Serratia sp. isolates from Laguna de Bay, Philippines. Microbiology Resource Announcements, e01268-24.
+          33. Lantican, NB, Barredo, G AT, Rosana, AR, Siababa, ACS, & Montecillo, AD. (2025). Draft genomes of five putative biosurfactant-producing Serratia sp. isolates from Laguna de Bay, Philippines. Microbiology Resource Announcements, e01268-24. <link>https://doi.org/10.1128/mra.01268-24</link>
           
           32. Silva, BBI, Urzo, MLR, Montecillo, AD, Encabo, JR, Chuang, JP, & Chuang, KP. (2025). Retrospective detection and whole genome sequencing identify the first local case of Pigeon Rotavirus A infection in Taiwan from 2018. Scientific Reports, 15(1), 6316.
 
