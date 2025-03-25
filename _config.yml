@@ -53,7 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>pathogen genomics</mark>, <mark>long-reads sequencing</mark> and <mark>microbial bioinformatics</mark>
 
 content:
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
