@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Andrew, and I'm a Registered Microbiologist (Philippine Academy of Microbiology, Inc.) and I'm an Assistant Professor at the Institute of Biological Sciences, University of the Philippines Los Baños, Philippines. I also have experience in animal and plant pathogen genomics and microbial bioinformatics. I have worked at a number of research and extension projects gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>pathogen genomics</mark> and <mark>microbial bioinformatics</mark>
+  I am most skilled in: <mark>pathogen genomics</mark>, <mark>long-reads sequencing</mark> and <mark>microbial bioinformatics</mark>
 
 content:
   - title: Publications # Title for the section
@@ -117,7 +117,7 @@ content:
           11. Reyes A, Ambita ID, Batalon JL, Aba BL, Cortes A, Macabecha CG, Montecillo A. (2018). Isolation and characterization of keratinolytic bacteria from soil samples of poultry waste dumping sites. Int J Agric Technol, 14(7):1787-1800.
 
           10. Adan MFY, Baybay ZK, Lantican, NB, Fernando LM, Paterno ES, Villegas LC, Ilag LL, Montecillo AD. (2018). Silver Nanoparticles Extracellularly Produced by Serratia sp. NBL1001 have Antibacterial Properties. Phil Sci Letters, 11(2): 075-083.
-          -
+          
           9. Montecillo AD, Raymundo AK, Papa IA, Aquino GMB, Jacildo AJ, Stothard P, Rosana ARR. (2018). Near-Complete Genome of Ralstonia solanacearum T523, a Phylotype I Tomato Phytopathogen Isolated from the Philippines. Microbiol Resour Announc, 7(12), e01048-18.
 
           8. De Leon MP, Park AY, Montecillo AD, Siringan MAT, Rosana ARR, Kim SG. (2018). Near-Complete Genome Sequences of Streptomyces sp. Strains AC1-42T and AC1-42W, Isolated from Bat Guano from Cabalyorisa Cave, Mabini, Pangasinan, Philippines. Microbiol Resour Announc, 7(7), e00904-18.
