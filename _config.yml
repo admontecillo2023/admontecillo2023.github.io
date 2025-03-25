@@ -96,8 +96,8 @@ content:
     content:
       - layout: top-middle
         title: Journals and Research Articles
-        # link: github.com/sproogen
-        # link_text: Project Website
+        link: https://scholar.google.com/citations?hl=en&authuser=1&user=Zg4bHlYAAAAJ
+        link_text: Google Scholar Profile
         additional_links:
           - title:  google scholar
           #  icon: fab fa-github
@@ -110,7 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           33. Lantican, NB, Barredo, G AT, Rosana, AR, Siababa, ACS, & Montecillo, AD. (2025). Draft genomes of five putative biosurfactant-producing Serratia sp. isolates from Laguna de Bay, Philippines. Microbiology Resource Announcements, e01268-24. <link>https://doi.org/10.1128/mra.01268-24</link>
           
-          32. Silva, BBI, Urzo, MLR, Montecillo, AD, Encabo, JR, Chuang, JP, & Chuang, KP. (2025). Retrospective detection and whole genome sequencing identify the first local case of Pigeon Rotavirus A infection in Taiwan from 2018. Scientific Reports, 15(1), 6316.
+          32. Silva, BBI, Urzo, MLR, Montecillo, AD, Encabo, JR, Chuang, JP, & Chuang, KP. (2025). Retrospective detection and whole genome sequencing identify the first local case of Pigeon Rotavirus A infection in Taiwan from 2018. Scientific Reports, 15(1), 6316. <link>https://doi.org/10.1038/s41598-025-87271-6</link>
 
           31. Montecillo, A, Ferrer, JBC., Baybay, Z, Balmes, RM, Falconite-Cudal, R, Alba, MG, ... & Pantua, H. (2025). Two coding-complete genomes of porcine reproductive and respiratory syndrome virus 2 (PRRSV-2) from field clinical samples in the Philippines. Microbiology Resource Announcements, e01164-24.
 
