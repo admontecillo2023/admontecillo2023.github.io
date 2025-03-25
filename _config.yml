@@ -48,9 +48,9 @@ orcid_username: 0000-0003-0627-1920
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Andrew, and I'm a Registered Microbiologist (Philippine Academy of Microbiology, Inc.) and I'm an Assistant Professor at the Institute of Biological Sciences, University of the Philippines Los Baños, Philippines. I also have experience in animal and plant pathogen genomics and microbial bioinformatics. I have worked at a number of research and extension projects gaining teamwork and leadership skills.
+   Hi, my name's Andrew, and I'm a Registered Microbiologist (Philippine Academy of Microbiology, Inc.) and I'm an Assistant Professor at the Institute of Biological Sciences, University of the Philippines Los Baños, Philippines. I also have experience in animal and plant pathogen genomics and microbial bioinformatics. I have worked at a number of research and extension projects gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>pathogen genomics</mark>, <mark>long-reads sequencing</mark> and <mark>microbial bioinformatics</mark>
+   I am most skilled in: <mark>pathogen genomics</mark>, <mark>long-reads sequencing</mark> and <mark>microbial bioinformatics</mark>
 
 content:
   - title: Education # Title for the section
