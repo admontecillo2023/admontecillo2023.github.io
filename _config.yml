@@ -76,7 +76,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Thesis title: Molecular Characterization of Archaeal Community of Cellulose-enriched and Non-enriched Mt. Makiling Mudspring Mud and Water Slurry Based on 16S rDNA Polymerase Chain Reaction-Denaturing Gradient Gel Electrophoresis (PCR-DGGE) and Community Proteomics. 
           Funded by the DOST-ASTHRDP Scholarship Program. University of the Philippines Los Banos, Philippines. January 2011 to October 2013.
+          
           Recognition: Top 4 M.Sc. graduate
+          
           Scholarship: DOST-SEI-ASTHRDP
   
       - layout: left
