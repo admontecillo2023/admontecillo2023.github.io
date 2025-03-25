@@ -86,9 +86,9 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-        Thesis title: Isolation and Partial Characterization of Lactic Acid Bacteria from Three Bee Species in the Philippines and Screening for Activity Against Paenibacillus larvae ssp. larvae and Selected Foodborne Pathogens”. April 2007. 
+          Thesis title: Isolation and Partial Characterization of Lactic Acid Bacteria from Three Bee Species in the Philippines and Screening for Activity Against Paenibacillus larvae ssp. larvae and Selected Foodborne Pathogens”. April 2007. 
         
-        Recognition: Magna cum laude graduate
+          Recognition: Magna cum laude graduate
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
