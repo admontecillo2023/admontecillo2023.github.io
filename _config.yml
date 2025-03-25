@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Andrew Montecillo
+title: Assistant Professor
+email: admontecillo@up.edu.ph
+website: https://admontecillo2023.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: andymontecillo
+github_username:  admontecillo2023
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: andrew-montecillo
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0003-0627-1920
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Andrew, and I'm a Registered Microbiologist (Philippine Academy of Microbiology, Inc.) and I'm an Assistant Professor at the Institute of Biological Sciences, University of the Philippines Los Baños, Philippines. I also have experience in animal and plant pathogen genomics and microbial bioinformatics. I have worked at a number of research and extension projects gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>pathogen genomics</mark> and <mark>microbial bioinformatics</mark>
 
 content:
   - title: Projects # Title for the section
