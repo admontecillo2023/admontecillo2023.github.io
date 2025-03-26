@@ -183,7 +183,7 @@ content:
       - layout: top-middle
         title: Work
 
-      - layout: left
+      - layout: top-middle
         title: Assistant Professor
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -196,7 +196,7 @@ content:
             Mentored graduate and undergraduate students in the conduct of the thesis and research projects.
             Courses taught: MCB 11, MCB 130, MCB 285, MCB 291, MBB 291, BIO 191, ABT 191
 
-      - layout: left
+      - layout: top-middle
         title: Assistant Professor
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -207,7 +207,7 @@ content:
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             
-      - layout: left
+      - layout: top-middle
         title: Instructor 
         # link: boringcompany.com
         # link_text: boringcompany.com
