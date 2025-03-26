@@ -179,21 +179,7 @@ content:
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      # - layout: top-middle
-      #   title: Research and Journal Articles
-      #   # link: github.com/sproogen
-      #   # link_text: Project Website
-      #   additional_links:
-      #     - title:  sproogen/modern-resume-theme
-      #       icon: fab fa-github
-      #       url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs
           *__Project Staff (L3) and Study Leader__*. Pandemic Response Preparedness for Emerging Bat-borne Viruses from Rural and Peri-urban ENvironmenTs (PREVENT): Bat-borne virus surveillance towards diagnostic and vaccine research. Study 3: Diversity analysis of bat viral genomes (Family *Paramyxoviridae*) from Quezon, Iloilo, and Sultan Kudarat using high throughput sequencing techniques. DOST-PCHRD Grant. 10 October 2024 to 09 October 2027. 
 
           *__Project Staff (L2) and Co-Study Leader__*. Horizon Europe Health Project, “Community-based engagement and interventions to stem the tide of antimicrobial resistance spread in the aquatic environments catalyzed by climate change and plastic pollution interactions (TULIP)”. UP Los Baños. 01 August 2024 to 30 June 2025.
