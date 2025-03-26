@@ -57,9 +57,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of the Philippines Los Baños
+        title: PhD by Research in Microbiology
         caption: 2021 - present
-        sub_title: PhD by Research in Microbiology
+        sub_title: University of the Philippines Los Baños
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -68,9 +68,9 @@ content:
           Scholarship: DOST-PCAARRD Graduate Research and Education Assistantship for Technology Program
     
       - layout: left
-        title: University of the Philippines Los Baños
+        title: M.Sc. in Microbiology
         caption: 2008 - 2013
-        sub_title: M.Sc. in Microbiology
+        sub_title: University of the Philippines Los Baños
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -82,9 +82,9 @@ content:
           Scholarship: DOST-SEI-ASTHRDP
   
       - layout: left
-        title: University of the Philippines Los Baños
+        title: B.Sc. in Biology
         caption: 2003 - 2007
-        sub_title: B.Sc. in Biology
+        sub_title: University of the Philippines Los Baños
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
