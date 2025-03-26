@@ -180,21 +180,48 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Research and Journal Articles
-        # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+      # - layout: top-middle
+      #   title: Research and Journal Articles
+      #   # link: github.com/sproogen
+      #   # link_text: Project Website
+      #   additional_links:
+      #     - title:  sproogen/modern-resume-theme
+      #       icon: fab fa-github
+      #       url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          *__Project Staff (L3) and Study Leader__*. Pandemic Response Preparedness for Emerging Bat-borne Viruses from Rural and Peri-urban ENvironmenTs (PREVENT): Bat-borne virus surveillance towards diagnostic and vaccine research. Study 3: Diversity analysis of bat viral genomes (Family *Paramyxoviridae*) from Quezon, Iloilo, and Sultan Kudarat using high throughput sequencing techniques. DOST-PCHRD Grant. 10 October 2024 to 09 October 2027. 
+
+          *__Project Staff (L2) and Co-Study Leader__*. Horizon Europe Health Project, “Community-based engagement and interventions to stem the tide of antimicrobial resistance spread in the aquatic environments catalyzed by climate change and plastic pollution interactions (TULIP)”. UP Los Baños. 01 August 2024 to 30 June 2025.
+
+          *__Project Staff (L3) and Study Leader__*. Study 1: Project 4: Phenomic, Genomic and Metagenomic Analysis of Microbiome of Bat Gut and Guano from Caves in CALABARZON under the DOST Program “Accelerated R&D Program for Capacity Building of Research and Development Institutions and Industrial Competitiveness: Niche Centers in the Regions for R&D (NICER) Program: Center for Cave Ecosystems Research”. UP Los Baños Museum of Natural History. 15 February 2021 to 31 August 2021.
+
+          *__Project Staff (L3)__*. Study 3: Development of Edible Coatings to Prevent Kernel Mold and Rot in Pili. Research Project: PILI NANOGUARD: Molecular and Nanoscale Studies on the Etiology of Tayangawon and Kernel Rot Diseases of Pili (Canarium ovatum) and Development of Emulsified Biopesticides and Edible Coatings for its Prevention. 1 June 2020 to 31 May 2021. CHED.
+
+          *__Program Coordinator__*. Shroomery: Improvement of Mushroom Production through Genetics and Breeding towards Nutraceutical Supplementation, Environmental Remediation and Sustainable Organic Agriculture in Marinduque, Philippines. 3 January 2019 – 26 June 2020. Commission on Higher Education (CHED) Discovery Applied Research and Extension for Trans/Interdisciplinary Opportunities Grant-in-Aid (DARE TO) Research Grant 2017. Philippines.
+
+          *__Project Leader__*. Project 1: Development of Hybrid Mushrooms through Genetics and Breeding.  Research Program: Shroomery: Improvement of Mushroom Production through Genetics and Breeding towards Nutraceutical Supplementation, Environmental Remediation and Sustainable Organic Agriculture in Marinduque, Philippines. 3 January 2019 – 26 June 2020. Commission on Higher Education (CHED) Discovery Applied Research and Extension for Trans/Interdisciplinary Opportunities Grant-in-Aid (DARE TO) Research Grant 2017. Philippines.
+
+          *__Pre-doctoral Researcher__*. Rewiring plant cell metabolism through metabolic engineering and synthetic biology. 25 May 2017 – 15 July 2018. Fundacio Centre de Recerca en Agrotecnologia-Agrotecnio, Av. Alcalde Rovira Roure 191, E-25198 Lleida, Spain.
+
+          *__Program Operations Manager__*. “Molecular and Culture-based Characterization of Bacterial Community from Manleluag Alkaline Spring in Pangasinan”. UP OVPAA Emerging Interdisciplinary Research Program Cycle 6. 16 December 2015 to 15 December 2017. University of the Philippines Los Baños, Philippines.
+
+          *__Study Leader__*. “Functional Genome Analysis of Gold Nanoparticle (AuNP)-Producing Plant Growth Promoting Bacteria (PGPB) Isolated from Philippine Soil”. USAID Science, Technology, Research and Innovation for Development (STRIDE) Program. 1 October 2015 to 31 December 2016. University of the Philippines Los Baños, Philippines.
+
+          *__Project Leader__*. “Whole genome sequencing and comparative genomic analysis of a hypervirulent strain of Ralstonia solanacearum (T523-731) and its implication to bacterial wilt disease management”. UP OVPAA Enhanced Creative Work and Research Grant. 1 June 2015 to 1 December 2016.
+
+          *__Project Staff__*. “Isolation, Identification and Screening for Protease Activity of Alkaliphilic Bacteria from Manleluag Spring in Pangasinan”. UPLB Basic Research Program. Funded by the Office of the Vice-Chancellor for Research and Extension (OVCRE), University of the Philippines Los Banos, Philippines. 1 May 2013 to 1 November 2015.  
+
+          Master of Science thesis: “Molecular Characterization of Archaeal Community of Cellulose-enriched and Non-enriched Mt. Makiling Mudspring Mud and Water Slurry Based on 16S rDNA Polymerase Chain Reaction-Denaturing Gradient Gel Electrophoresis (PCR-DGGE) and Community Proteomics. Funded by the DOST-ASTHRDP Scholarship Program. University of the Philippines Los Banos, Philippines. January 2011 to October 2013.
+
+          *__Co-proponent__*. “Isolation, Characterization and Identification of Lactic Acid Bacteria from Three Bee Species in the Philippines and Screening for Activity against Paenibacillus larvae ssp. larvae”. UPLB Basic Research Program. Funded by the Office of the Vice-Chancellor for Research and Extension (OVCRE). March 2008 to May 2009.
+
+          Undergraduate Thesis: “Isolation and Partial Characterization of Lactic Acid Bacteria from Three Bee Species in the Philippines and Screening for Activity Against Paenibacillus larvae ssp. larvae and Selected Foodborne Pathogens”. April 2007. 
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
