@@ -183,7 +183,7 @@ content:
       - layout: top-middle
         title: Work
 
-      - layout: top-middle
+      - layout: left
         title: Assistant Professor
         # link: boringcompany.com
         # link_text: boringcompany.com
