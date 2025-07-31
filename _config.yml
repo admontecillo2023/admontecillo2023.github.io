@@ -48,7 +48,7 @@ orcid_username: 0000-0003-0627-1920
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   Hi, my name's Andrew, and I'm a Registered Microbiologist (Philippine Academy of Microbiology, Inc.) and I'm an Assistant Professor at the Institute of Biological Sciences, University of the Philippines Los Baños, Philippines. I also have experience in animal and plant pathogen genomics and microbial bioinformatics. I have worked at a number of research and extension projects gaining teamwork and leadership skills.
+   Hi, my name's Andrew, and I'm a Registered Microbiologist (Philippine Academy of Microbiology, Inc.) and I'm an Assistant Professor at the Institute of Biological Sciences, University of the Philippines Los Baños, Philippines. I also have experience in animal and plant pathogen genomics, metagenomics, and microbial bioinformatics. I have worked at a number of research and extension projects gaining teamwork and leadership skills.
 
    I am most skilled in: <mark>pathogen genomics</mark>, <mark>long-reads sequencing</mark> and <mark>microbial bioinformatics</mark>
 
@@ -380,17 +380,17 @@ content:
         description: | # this will include new lines to allow paragraphs
             Isolation, Characterization and Identification of Lactic Acid Bacteria from Three Bee Species in the Philippines and Screening for Activity against *Paenibacillus larvae* ssp. *larvae*. UPLB Basic Research Program. Funded by the Office of the Vice-Chancellor for Research and Extension (OVCRE).
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
